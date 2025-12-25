@@ -1,63 +1,64 @@
+<h1 align="center">Hi 👋, I'm Igor Fernandes</h1>
+<h3 align="center">🇧🇷 Brazilian Software Developer & Game Dev | 20 years old</h3>
 
-<h1 align="center">Igor Fernandes</h1>
-<p align="center">Brazilian • 20 years old • Software Developer & Game Developer</p>
-
----
-
-## About Me
-- Game developer (MonoGame / C++)
-- Full‑stack software developer
-- Datacenter Technician Intern at Microsoft
-- Member of Microsoft and Copilot organizations (via SSO)
-- Passionate about Azure, backend engineering and game creation
-
----
-
-## Technologies
-
-### Languages & Frameworks
-<p>
-  <img alt="C#" src="https://skillicons.dev/icons?i=cs" height="48"/>
-  <img alt=".NET" src="https://skillicons.dev/icons?i=dotnet" height="48"/>
-  <img alt="C++" src="https://skillicons.dev/icons?i=cpp" height="48"/>
-  <img alt="TypeScript" src="https://skillicons.dev/icons?i=ts" height="48"/>
-  <img alt="Python" src="https://skillicons.dev/icons?i=python" height="48"/>
-</p>
-
-### Game Development
-<p>
-  <img alt="MonoGame" src="https://raw.githubusercontent.com/MonoGame/MonoGame/develop/MonoGame.Framework/Assets/Logos/monogame.svg" height="48"/>
-</p>
-
-### Backend & Web
-<p>
-  <img alt="ASP.NET" src="https://skillicons.dev/icons?i=dotnet" height="48"/>
-  <img alt="Entity Framework" src="https://skillicons.dev/icons?i=dotnet" height="48"/>
-</p>
-
-### Databases
-<p>
-  <img alt="SQL Server" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="48"/>
-  <img alt="PostgreSQL" src="https://skillicons.dev/icons?i=postgres" height="48"/>
-</p>
-
-### Cloud & Tools
-<p>
-  <img alt="Azure" src="https://skillicons.dev/icons?i=azure" height="48"/>
-  <img alt="Visual Studio" src="https://skillicons.dev/icons?i=visualstudio" height="48"/>
-  <img alt="VSCode" src="https://skillicons.dev/icons?i=vscode" height="48"/>
-  <img alt="GitHub" src="https://skillicons.dev/icons?i=github" height="48"/>
-  <img alt="Git" src="https://skillicons.dev/icons?i=git" height="48"/>
+<p align="center">
+  <a href="https://github.com/microsoft">
+    <img src="https://img.shields.io/badge/Microsoft-Intern-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Intern"/>
+  </a>
+  <a href="https://github.com/microsoft/copilot">
+    <img src="https://img.shields.io/badge/GitHub%20Copilot-Organization-000000?style=for-the-badge&logo=github&logoColor=white" alt="Copilot"/>
+  </a>
 </p>
 
 ---
 
-## Goals
-- Grow as a game developer
-- Contribute more to open-source projects
-- Transition into software engineering
-- Build impactful tools and games
+## 🛠️ Technical Skills
+
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+</p>
+
+### Frameworks & Libraries
+<p>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET"/>
+  <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Entity Framework"/>
+</p>
+
+### Cloud & Databases
+<p>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+</p>
+
+### Tools
+<p>
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+</p>
 
 ---
 
-<p align="center">Thanks for visiting my profile.</p>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=6" alt="Trophies"/>
+</p>
