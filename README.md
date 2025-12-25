@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/Microsoft-Intern-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Intern"/>
   </a>
   <a href="https://github.com/microsoft/copilot">
-    <img src="https://img.shields.io/badge/GitHub%20Copilot-Organization-000000?style=for-the-badge&logo=github&logoColor=white" alt="Copilot"/>
+    <img src="https://img.shields.io/badge/GitHub%20Copilot?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="Copilot"/>
   </a>
 </p>
 
