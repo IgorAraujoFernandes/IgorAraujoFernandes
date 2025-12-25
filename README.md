@@ -17,9 +17,10 @@
 
 
 ##  About Me
+
 Currently working as a **Datacenter Technician at Microsoft**
 - Aspiring **Software Engineer** focused on **Game Development**
-- Passionate about building games and software of all kinds, specially using .NET
+- Passionate about building games and software of all kinds, specially using C# and .NET
 
 
 ## Languages
