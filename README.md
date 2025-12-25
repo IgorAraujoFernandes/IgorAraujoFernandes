@@ -1,46 +1,68 @@
-<h1 align="center">Igor Fernandes</h1>
-<h3 align="center">🇧🇷 Brazilian Software Developer & Game Dev</h3>
-
-<p align="center">
-  <a href="https://github.com/microsoft">
-    <img src="https://img.shields.io/badge/Microsoft-Intern-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Intern"/>
-  </a>
-  <a href="https://github.com/microsoft/copilot">
-    <img src="https://img.shields.io/badge/GitHub%20Copilot?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="Copilot"/>
-  </a>
+<p align="center"> 
+  <img src= "https://uhf.microsoft.com/images/microsoft/RE1Mu3b.png" alt="Microsoft" width="150" height="150" />
 </p>
 
----
+
+<div id="toc" align = "center">
+  <ul style="list-style: none">
+    <summary>
+      <h1 align="center"> <b>Datacenter Technician @ Microsoft</b></h1><br>
+    <h3 align="center">
+       💻 Software Developer | 🎮 Game Developer 
+    </h3>
+    </summary>
+  </ul>
+</div>
+        
+
+
+##  About Me
+Currently working as a **Datacenter Technician at Microsoft**
+- Aspiring **Software Engineer** focused on **Game Development**
+- Passionate about building games and software of all kinds, specially using .NET
 
 
 ## Languages
 <p>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/>
+  &nbsp;&nbsp;
+           
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
+  &nbsp;&nbsp;
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="TypeScript" width="50" height="50"/>
+  &nbsp;&nbsp;
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="TypeScript" width="50" height="50"/>
+  &nbsp;&nbsp;
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  &nbsp;&nbsp;
+
+## Frameworks
+<p>
+  
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" alt=".NET" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/entityframeworkcore/entityframeworkcore-original.svg" alt="Entity Framework" width="50" height="50"/>
+ 
 </p>
 
-## Frameworks & Libraries
-<p>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
-  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET"/>
-  <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Entity Framework"/>
-</p>
+  ## Cloud & Databases
+  <p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="50" height="50"/>
+  &nbsp;&nbsp;
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="50" height="50"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
+  </p>
 
-## Cloud & Databases
-<p>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-</p>
 
 ## IDEs
 <p>
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="50" height="50"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
 </p>
 
 ---
-
-
