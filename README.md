@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img src= "https://uhf.microsoft.com/images/microsoft/RE1Mu3b.png" alt="Microsoft" width="150" height="200" />
+  <img src= "https://uhf.microsoft.com/images/microsoft/RE1Mu3b.png" alt="Microsoft" width="216" height="46" />
 </p>
 
 
