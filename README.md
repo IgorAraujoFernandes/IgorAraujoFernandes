@@ -40,6 +40,10 @@ Currently working as a **Datacenter Technician at Microsoft**
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   &nbsp;&nbsp;
 
+ 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="HTML" width="50" height="50"/>
+  &nbsp;&nbsp;
+
 ## Frameworks
 <p>
   
