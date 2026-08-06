@@ -56,11 +56,36 @@ Currently working as a **Datacenter Technician at Microsoft**
   <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="50" height="50"/>
   &nbsp;&nbsp;
+
   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="SQLite" width="50" height="50"/>
+          
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="50" height="50"/>
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
+
+  
+
   </p>
+
+
+## OS
+<p>
+  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
+ 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" alt="Windows" width="50" height="50"/>
+                   
+  
+</p>
+
+## Game Engines
+
+<p>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" alt="Unity" width="50" height="50"/>
+  
+</p>
 
 
 ## IDEs
