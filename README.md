@@ -6,7 +6,7 @@
 <div id="toc" align = "center">
   <ul style="list-style: none">
     <summary>
-      <h1 align="center"> <b>Datacenter Technician Intern @ Microsoft</b></h1><br>
+      <h1 align="center"> <b>Datacenter Technician @ Microsoft</b></h1><br>
     <h3 align="center">
        💻 Software Developer | 🎮 Game Developer 
     </h3>
